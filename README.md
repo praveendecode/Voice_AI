@@ -56,7 +56,6 @@ Challenges encountered during the project include GPU memory limitations, fine-t
 
 -	Storage Constraints: The limited storage capacity in Google Colab posed a challenge, preventing the completion of additional fine-tuning steps due to insufficient space for model checkpoints and intermediate results.
 -	Low GPU Resources: The free version of Google Colab provided inadequate GPU capacity, hindering the fine-tuning of larger and more complex models. This limitation impacted the training efficiency and overall model performance.
-
 -	Model Complexity vs Steps: Balancing increased model complexity with a lower number of fine-tuning steps presented a challenge. The compromise led to a higher Word Error Rate (WER), indicating the impact of insufficient training steps on the model's language understanding and transcription accuracy.
 
 
@@ -67,11 +66,12 @@ Challenges encountered during the project include GPU memory limitations, fine-t
 
 ## Future Work:
 
-Future enhancements will involve exploring additional pre-trained models, incorporating more diverse datasets, and experimenting with alternative fine-tuning techniques with adequate GPU and Storage.
+- Future enhancements will involve exploring additional pre-trained models, incorporating more diverse datasets, and experimenting with alternative fine-tuning techniques with adequate GPU and Storage.
 
-Credits:
-Datasets sourced from Mozilla Common Voice 11.0.
-Model Tuning: Hugging Face's Whisper-Small (https://huggingface.co/openai/whisper-small)
+## Credits:
+
+- Datasets sourced from Mozilla Common Voice 11.0.
+- Model Tuning: Hugging Face's Whisper-Small (https://huggingface.co/openai/whisper-small)
 
 ## Project Execution:
 
