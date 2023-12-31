@@ -75,8 +75,8 @@ Model Tuning: Hugging Face's Whisper-Small (https://huggingface.co/openai/whispe
 
 ## Project Execution:
 
--	Compare Word Error Rate of large and small models with this notebook: WER Comparison
--	Fine-tune using: Fine-Tuning Process
--	For inference, use: Voice AI Inference Script
+-	Compare Word Error Rate of large and small models with this notebook: [WER Comparison](https://github.com/praveendecode/Voice_AI/blob/main/Source/Base_Model_Word_Error_Rate.ipynb)
+-	Fine-tune using: [Fine-Tuning Process](https://github.com/praveendecode/Voice_AI/blob/main/Source/Fine_Tuning_Whisper_OpenAI_Small.ipynb)
+-	For inference, use: [Voice AI Inference Script](https://github.com/praveendecode/Voice_AI/blob/main/Source/voice_ai.py)
 
  Note: All code explanations has given in the google colab-notebook 
