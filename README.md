@@ -37,7 +37,7 @@
 -	The Whisper ASR models, specifically Whisper Small and Large versions, serve as the primary architecture and used for comparison
 -	PEFT and LORA adaptations are applied to improve training efficiency and adaptation to specific tasks.
 
-Training and Fine-Tuning:
+## Training and Fine-Tuning:
 
 -	The Seq2SeqTrainingArguments and Seq2SeqTrainer from the Hugging Face Transformers library are utilized for model training.
 -	Fine-tuning strategies are applied to optimize model performance.
