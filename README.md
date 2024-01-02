@@ -47,7 +47,7 @@
 
 -	Word Error Rate (WER) is employed as the primary metric for evaluating model performance. 
 -	The goal is to minimize WER, ensuring accurate transcription of Marathi speech.
--	Before fine tuning used provided test dataset in whisper large-v3, calculated Average WER is 73.8 and Whisper small Average WER is 93.3
+-	Before fine tuning used provided test dataset in whisper large-v3, calculated Average WER is 0.73 and Whisper small Average WER is 0.93
 
 
 ## Challenges Faced:
