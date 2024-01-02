@@ -1,0 +1,6 @@
+pip install --upgrade pip
+pip install --upgrade git+https://github.com/huggingface/transformers.git accelerate datasets transformers soundfile librosa evaluate tensorboard
+pip install pandas
+pip install torch
+pip install python-Levenshtein
+pip install jiwer
