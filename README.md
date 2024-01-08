@@ -13,7 +13,7 @@
  ## Problem Statement:
 
 -	Addressing the challenge of accurate Marathi speech transcription is crucial for applications like transcription services, voice assistants, and accessibility tools. 
--	Inaccurate transcription affects user experience and accessibility for Marathi speakers.
+-	Inaccurate transcription affects user experience and accessibility for Marathi speakers
 
 
 
